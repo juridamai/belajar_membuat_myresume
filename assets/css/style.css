@@ -1207,3 +1207,7 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+#loom-companion-mv3{
+  display: none;
+}
